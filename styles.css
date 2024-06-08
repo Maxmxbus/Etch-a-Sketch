@@ -1,0 +1,19 @@
+body{
+    background: rgb(88, 88, 88);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.butDiv{
+    display: flex;
+    gap: 9px;
+    justify-content: center;
+    margin-top: 60px;
+}
+.grid-item{
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+}
